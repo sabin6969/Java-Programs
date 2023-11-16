@@ -1,0 +1,2 @@
+In java semi colon is used to terminate the statements
+

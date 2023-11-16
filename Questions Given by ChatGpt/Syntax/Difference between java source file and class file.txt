@@ -1,0 +1,3 @@
+Java Source file contains a source code written in java.
+
+While java class files contains byte code (low level representation of java).

@@ -1,0 +1,2 @@
+main is a top level, special function or method in java from where execution of a program begins.
+Without a main method a java program cannot exectue.

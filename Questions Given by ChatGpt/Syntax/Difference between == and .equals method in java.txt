@@ -1,0 +1,3 @@
+== is an operator which is used to check the refrence of an object. It returns true if the refrence of two objects are same
+
+While .equals is a method which is used to check the value of object. It returns true if the value of two objects are same.

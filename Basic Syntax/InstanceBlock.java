@@ -2,6 +2,7 @@
 // Generally it is used to initalize instance variables
 
 class Demo {
+
     {
         System.out.println("This is instance block");
     }
